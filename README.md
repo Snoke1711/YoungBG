@@ -10,4 +10,4 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 ## Screenshots
 
 ![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png|width=30px)
-img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="30px">
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="30px">
