@@ -1,6 +1,6 @@
-# <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">   YoungBG
-Trabalho feito no 1° semestre da faculdade de economia com o intuito de modernizar a marca.
 # <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">   Young BG
+Trabalho feito no 1° semestre da faculdade de economia com o intuito de modernizar a marca.
+# <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">   Sobre
 
  O trabalho “YoungBG”, foi desenvolvido pensando no ambiente escolar genérico, compreendendo todas as funções básicas requisitadas pelo público-alvo. O cenário base utilizado para demonstração e caracterização do sistema foi a Escola Técnica Estadual Oscar Tenório dada a necessidade de pesquisa, levantamento e acesso aos relatórios escolares.
  O objetivo principal do sistema é otimizar as tarefas realizadas cotidianamente pelo professor, logo os módulos mais importantes são os que realizam a frequência diária, o módulo de avaliações e de notas. Apesar disso, o sistema compreende outros usuários e atividades a fim de estender o conceito de facilidade à Gestão escolar, ao Secretariado e à Coordenação pedagógica. Ao todo o sistema compreende 6 usuários que possuem funções e níveis distintos, são eles: ADMIN, Diretor, Coordenador, Secretário, Supervisor e o Docente/Professor.
