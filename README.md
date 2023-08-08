@@ -1,5 +1,5 @@
 # <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">   YoungBG
-# Trabalho feito no 1° semestre da faculdade de economia com o intuito de modernizar a marca.
+ Trabalho feito no 1° semestre da faculdade de economia com o intuito de modernizar a marca.
 # 🎓 Young BG
 
  O trabalho “YoungBG”, foi desenvolvido pensando no ambiente escolar genérico, compreendendo todas as funções básicas requisitadas pelo público-alvo. O cenário base utilizado para demonstração e caracterização do sistema foi a Escola Técnica Estadual Oscar Tenório dada a necessidade de pesquisa, levantamento e acesso aos relatórios escolares.
