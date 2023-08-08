@@ -9,4 +9,4 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 
 ## Screenshots
 
-![App Screenshot](https://dev.to/snoke1711/logo-33fi.jpg)
+![App Screenshot]([https://dev.to/snoke1711/logo-33fi.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--knOm4LyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png)https://res.cloudinary.com/practicaldev/image/fetch/s--knOm4LyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png)
