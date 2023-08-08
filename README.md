@@ -1,4 +1,4 @@
-# <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">  &hairsp YoungBG
+# <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6m4q8ifogstfuj6j3qtt.png" width="20px">   YoungBG
 # Trabalho feito no 1° semestre da faculdade de economia com o intuito de modernizar a marca.
 # 🎓 Young BG
 
