@@ -9,4 +9,4 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 
 ## Screenshots
 
-![App Screenshot](https://dev.to/snoke1711/logo-33fi)
+![App Screenshot](https://dev.to/snoke1711/logo-33fi.jpg)
