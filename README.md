@@ -6,7 +6,7 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
  O objetivo principal do projeto é adicionar formas que a marca ganhe compradores mais novos sem perder seus fiéis clientes. Logo as ideias mais importantes foram mesclar a empresa com marcas famosas entre os jovens hoje em dia e aprimoramentos gerais nos produtos já existentes. 
  Vale ressaltar que o projetado foi projetado e feito visando o fácil entendimento da nova submarca criada focada em outro publico, assim como a existente "Bagaggio Office", buscando um novo visual totalmente inovador entre as marcas desse gênero. 
 
-## Screenshots
+## Exemplos
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0v5ku7b867y658uhikv.png">
 
@@ -14,7 +14,7 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i6u59ccauuv3x72o76oh.png">
 
-## Funcionalidades
+## Objetivo
 
 - Controle de Frequência Escolar
 - Lançamento de Notas Trimestrais
