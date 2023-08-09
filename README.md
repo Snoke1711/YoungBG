@@ -12,6 +12,8 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 
 ![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uw0ut4gol4yv61to8vn6.png)
 
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i6u59ccauuv3x72o76oh.png">
+
 ## Funcionalidades
 
 - Controle de Frequência Escolar
