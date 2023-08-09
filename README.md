@@ -8,8 +8,7 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 
 ## Screenshots
 
-
-<img src="https://dev.to/snoke1711/a-43ai">
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0v5ku7b867y658uhikv.png">
 ![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jaxkl8lbxh87vbuck9k5.jpg)
 
 ![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tsxfp8lyme7ij7xqnr2h.jpg)
