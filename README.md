@@ -27,18 +27,11 @@ Trabalho feito no 1° semestre da faculdade de economia com o intuito de moderni
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
  Foram 3 anos de ensino médio técnico, acumulando conhecimento e experiência dentro da área de desenvolvimento web, onde aprendemos as tecnologias HTML/CSS/JS/PHP/MYSQL entre outras. Também aprendemos e trabalhamos com o conceito de CRUD, o qual foi a base do nosso Sistema de Informação.
-## Stack utilizada
-
-*Front-end:* HTML, CSS, JavaScript, Bootstrap
-
-*Back-end:* PHP
-
-*Banco de Dados:* MySQL, HeidiSQL, MySQL Workbench
 
 
 ## 📄 Documentação
 
-[Documentação](https://github.com/SociedadeDoMouse/Diario-Eletronico/tree/main/doc)
+[Documentação](https://github.com/Snoke1711/YoungBG/blob/main/YOUNG_BAGAGGIO_OS_NOVOS_ROMÂNTICOS%5B1%5D.docx)
 
 
 ## Autor
@@ -48,4 +41,4 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 ## Suporte
 
-Para suporte, mande um email para mousessmails@gmail.com.
+Para suporte, mande um email para guilhermepedersetti21@gmail.com.
